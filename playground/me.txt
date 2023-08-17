@@ -1,5 +1,0 @@
-{{#dabarshi}
-Name: Dabarshi Roy
-Skills: HTML, CSS, JS, React.js, Node.js, Express.js, MongoDB
-Email: dabarshiroy@gmail.com
-{{/dabarshi}}
